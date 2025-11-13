@@ -29,7 +29,7 @@ Diseñar y desarrollar un **portafolio web personal** que permita presentar de m
 
 
 **Qué es:** Agencia canadiense de diseño interactivo reconocida por sus narrativas visuales y navegación inmersiva.
-**Fuente:** (https://locomotive.ca/en)  
+**Fuente:** https://locomotive.ca/en  
 
 **Aspectos positivos:**  
 -Transiciones fluidas que crean una experiencia coherente y envolvente.
@@ -47,7 +47,7 @@ Diseñar y desarrollar un **portafolio web personal** que permita presentar de m
 <img src="https://github.com/l1vk4/Trabajo-final/blob/31a7320753473d8155d15a22a2b316d3b943561f/img/Studio%20Feixen%202.png"/>
 
 **Qué es:** Estudio suizo de diseño gráfico y dirección de arte que destaca por su enfoque experimental.  
-**Fuente:** (https://www.studiofeixen.ch/)  
+**Fuente:** https://www.studiofeixen.ch/  
 
 **Aspectos positivos:**  
 - Estructura flexible con layouts cambiantes que mantienen el interés visual.
@@ -65,7 +65,7 @@ Diseñar y desarrollar un **portafolio web personal** que permita presentar de m
 <img src="https://github.com/l1vk4/Trabajo-final/blob/31a7320753473d8155d15a22a2b316d3b943561f/img/Studio%20Nari%202.png"/>
 
 **Qué es:** Estudio londinense que combina arte, diseño gráfico y storytelling visual en proyectos de marca.  
-**Fuente:** (https://www.studionari.co.uk/)  
+**Fuente:** https://www.studionari.co.uk/ 
 
 **Aspectos positivos:**  
 - Narrativa visual atractiva con ritmo fluido.
@@ -83,7 +83,7 @@ Diseñar y desarrollar un **portafolio web personal** que permita presentar de m
 <img src="https://github.com/l1vk4/Trabajo-final/blob/31a7320753473d8155d15a22a2b316d3b943561f/img/Goma%20Xantana%202.png"/>
 
 **Qué es:** Artista audiovisual cuya web presenta un portfolio de obras generadas por IA, performances AV y colaboraciones experimentales. 
-**Fuente:** (https://gomaxantana.net/) 
+**Fuente:** https://gomaxantana.net/
 
 **Aspectos positivos:**  
 - Presentación muy visual, con foco en imágenes fuertes y tipografía minimalista que permite que la obra hable por sí misma.
@@ -101,7 +101,7 @@ Diseñar y desarrollar un **portafolio web personal** que permita presentar de m
 <img src="https://github.com/l1vk4/Trabajo-final/blob/31a7320753473d8155d15a22a2b316d3b943561f/img/Anna%20Mills%202.png"/>
 
 **Qué es:** Portafolio tipo galeria de fotos con varios efectos llamativos 
-**Fuente:** (https://annamills.xyz/) 
+**Fuente:** https://annamills.xyz/
 
 **Aspectos positivos:**  
 - Implementa una estructura clara y ordenada, donde la jerarquía tipográfica y la arquitectura visual facilitan la lectura y la exploración del contenido.
@@ -116,7 +116,7 @@ Diseñar y desarrollar un **portafolio web personal** que permita presentar de m
 <img src="https://github.com/l1vk4/Trabajo-final/blob/31a7320753473d8155d15a22a2b316d3b943561f/img/Ludovic%20Roth.png"/>
 
 **Qué es:** Portafolio digital del diseñador gráfico y director de arte Ludovic Roth, con enfoque en proyectos editoriales, tipográficos y de identidad visual.  
-**Fuente:** (https://ludovicroth.com/)  
+**Fuente:** https://ludovicroth.com/ 
 
 **Aspectos positivos:**  
 - Estructura editorial muy cuidada, con jerarquía visual precisa y uso consistente de retículas.
