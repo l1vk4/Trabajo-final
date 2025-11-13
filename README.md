@@ -25,6 +25,7 @@ Diseñar y desarrollar un **portafolio web personal** que permita presentar de m
 
 ### 1. Locomotive – Digital Agency
 <img src="https://github.com/l1vk4/Trabajo-final/blob/cefc7a24d955002ece7775a1d0b2385720ad8074/img/Locomotive1.png"/>
+<img src="https://github.com/l1vk4/Trabajo-final/blob/cefc7a24d955002ece7775a1d0b2385720ad8074/img/Locomotive2.png"/>
 
 
 **Qué es:** Agencia canadiense de diseño interactivo reconocida por sus narrativas visuales y navegación inmersiva.
@@ -42,7 +43,8 @@ Diseñar y desarrollar un **portafolio web personal** que permita presentar de m
 ---
 
 ### 2. Studio Feixen
-![Sitio Dots & Lines](https://github.com/Josefa020/Examen-Final-/blob/main/imgfinal/Dots%20%26%20Lines.png?raw=true)
+<img src="https://github.com/l1vk4/Trabajo-final/blob/31a7320753473d8155d15a22a2b316d3b943561f/img/Studio%20feixen%201.png"/>
+<img src="https://github.com/l1vk4/Trabajo-final/blob/31a7320753473d8155d15a22a2b316d3b943561f/img/Studio%20Feixen%202.png"/>
 
 **Qué es:** Estudio suizo de diseño gráfico y dirección de arte que destaca por su enfoque experimental.  
 **Fuente:** (https://www.studiofeixen.ch/)  
@@ -59,7 +61,8 @@ Diseñar y desarrollar un **portafolio web personal** que permita presentar de m
 ---
 
 ### 3. Studio Nari
-![Sitio Atelier Matin](https://github.com/Josefa020/Examen-Final-/blob/main/imgfinal/AtelierMatin.png?raw=true)
+<img src="https://github.com/l1vk4/Trabajo-final/blob/31a7320753473d8155d15a22a2b316d3b943561f/img/Studio%20Nari1.png"/>
+<img src="https://github.com/l1vk4/Trabajo-final/blob/31a7320753473d8155d15a22a2b316d3b943561f/img/Studio%20Nari%202.png"/>
 
 **Qué es:** Estudio londinense que combina arte, diseño gráfico y storytelling visual en proyectos de marca.  
 **Fuente:** (https://www.studionari.co.uk/)  
@@ -76,7 +79,8 @@ Diseñar y desarrollar un **portafolio web personal** que permita presentar de m
 ---
 
 ### 4. Goma Xantana
-![Sitio Re-Foam](https://github.com/Josefa020/Examen-Final-/blob/main/imgfinal/Re-Foam.png?raw=true)
+<img src="https://github.com/l1vk4/Trabajo-final/blob/31a7320753473d8155d15a22a2b316d3b943561f/img/Goma%20Xantana%201.png"/>
+<img src="https://github.com/l1vk4/Trabajo-final/blob/31a7320753473d8155d15a22a2b316d3b943561f/img/Goma%20Xantana%202.png"/>
 
 **Qué es:** Artista audiovisual cuya web presenta un portfolio de obras generadas por IA, performances AV y colaboraciones experimentales. 
 **Fuente:** (https://gomaxantana.net/) 
@@ -93,7 +97,8 @@ Diseñar y desarrollar un **portafolio web personal** que permita presentar de m
 ---
 
 ### 5. Anna Mills
-![Sitio Ludovic Roth](https://github.com/Josefa020/Examen-Final-/blob/main/imgfinal/LudovicRoth.png?raw=true)
+<img src="https://github.com/l1vk4/Trabajo-final/blob/31a7320753473d8155d15a22a2b316d3b943561f/img/Anna%20Mills%201.png"/>
+<img src="https://github.com/l1vk4/Trabajo-final/blob/31a7320753473d8155d15a22a2b316d3b943561f/img/Anna%20Mills%202.png"/>
 
 **Qué es:** Portafolio tipo galeria de fotos con varios efectos llamativos 
 **Fuente:** (https://annamills.xyz/) 
@@ -108,7 +113,7 @@ Diseñar y desarrollar un **portafolio web personal** que permita presentar de m
 ---
 
 ### 6. Ludovic Roth
-![Sitio A-Andrea](https://github.com/Josefa020/Examen-Final-/blob/main/imgfinal/A-Andrea.png?raw=true)
+<img src="https://github.com/l1vk4/Trabajo-final/blob/31a7320753473d8155d15a22a2b316d3b943561f/img/Ludovic%20Roth.png"/>
 
 **Qué es:** Portafolio digital del diseñador gráfico y director de arte Ludovic Roth, con enfoque en proyectos editoriales, tipográficos y de identidad visual.  
 **Fuente:** (https://ludovicroth.com/)  
