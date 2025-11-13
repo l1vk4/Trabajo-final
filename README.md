@@ -25,7 +25,7 @@ Diseñar y desarrollar un **portafolio web personal** que permita presentar de m
 
 ### 1. Locomotive – Digital Agency
 <img src="https://github.com/l1vk4/Trabajo-final/blob/cefc7a24d955002ece7775a1d0b2385720ad8074/img/Locomotive1.png"/>
-<img src="https://github.com/l1vk4/Trabajo-final/blob/cefc7a24d955002ece7775a1d0b2385720ad8074/img/Locomotive2.png"/>
+<img src="https://github.com/l1vk4/Trabajo-final/blob/a105b59518ebe644b0d46fb952aab6a4f254a7cf/img/Locomotive%202.png"/>
 
 
 **Qué es:** Agencia canadiense de diseño interactivo reconocida por sus narrativas visuales y navegación inmersiva.
