@@ -131,4 +131,4 @@ Diseñar y desarrollar un **portafolio web personal** que permita presentar de m
 ## Referentes
 Colección de imágenes clave que definen la estética, paleta de colores y el tono para el diseño de la web, asegurando coherencia visual.
 
-![Moodboard completo para la web](https://github.com/Josefa020/Examen-Final-/blob/main/imgfinal/Moodboard.png?raw=true)
+<img src="https://github.com/l1vk4/Trabajo-final/blob/35dd1c03587161b03556cde1ffad4fd6a0ac0c75/img/moodboard.png"/>
